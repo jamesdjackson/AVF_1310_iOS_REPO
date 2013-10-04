@@ -1,0 +1,714 @@
+TAppDemo1
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Info.plist /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/AppDemo1.app/ResourceRules.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Script-304B58A110DAC018002A0835.sh
+cCpResource AppDemo1/config.xml build/device/AppDemo1.app/config.xml
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72.png AppDemo1/Resources/icons/icon-72.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon.png AppDemo1/Resources/icons/icon.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon@2x.png AppDemo1/Resources/icons/icon@2x.png
+cCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/en.lproj/Localizable.strings AppDemo1/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/es.lproj/Localizable.strings AppDemo1/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.xib
+cCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/de.lproj/Localizable.strings AppDemo1/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/se.lproj/Localizable.strings AppDemo1/Resources/se.lproj/Localizable.strings
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape@2x~ipad.png AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape~ipad.png AppDemo1/Resources/splash/Default-Landscape~ipad.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait@2x~ipad.png AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait~ipad.png AppDemo1/Resources/splash/Default-Portrait~ipad.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default@2x~iphone.png AppDemo1/Resources/splash/Default@2x~iphone.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default~iphone.png AppDemo1/Resources/splash/Default~iphone.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-568h@2x~iphone.png AppDemo1/Resources/splash/Default-568h@2x~iphone.png
+cCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72@2x.png AppDemo1/Resources/icons/icon-72@2x.png
+cProcessPCH /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AppDemo1-Prefix-fkdsgstxcbutlrfahfvdzqurlgki/AppDemo1-Prefix.pch.pch AppDemo1/AppDemo1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1 normal armv7
+cGenerateDSYMFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app.dSYM /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1
+cProcessProductPackaging /Users/jamesjackson/Library/MobileDevice/Provisioning\ Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/embedded.mobileprovision
+cTouch /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent
+cCodeSign /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000521BCCE10000000000000110
+t1377553633
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000524E3A310000000000000094
+t1380858417
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000524E3A310000000000000096
+t1380858417
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000524E3A31000000000000036B
+t1380858417
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000524E3A32000000000000019E
+t1380858418
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000524E3A320000000000076920
+t1380858418
+s485664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000524E3A3500000000004D6390
+t1380858421
+s5071760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000524E3A350000000000145160
+t1380858421
+s1331552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000524E3A370000000000211130
+t1380858423
+s2167088
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist
+c00000000524F11320000000000000743
+t1380913458
+s1859
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Prefix.pch
+c00000000524F110800000000000003C1
+t1380913416
+s961
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m
+c00000000524F110800000000000013A7
+t1380913416
+s5031
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m
+c00000000524F11080000000000001269
+t1380913416
+s4713
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.xib
+c00000000524F11070000000000001759
+t1380913415
+s5977
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/de.lproj/Localizable.strings
+c00000000524F110700000000000004BF
+t1380913415
+s1215
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/en.lproj/Localizable.strings
+c00000000524F110700000000000004AA
+t1380913415
+s1194
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/es.lproj/Localizable.strings
+c00000000524F110700000000000004B7
+t1380913415
+s1207
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon-72.png
+c00000000524F11070000000000001350
+t1380913415
+s4944
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon-72@2x.png
+c00000000524F11070000000000002DBA
+t1380913415
+s11706
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon.png
+c00000000524F11070000000000000F3E
+t1380913415
+s3902
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon@2x.png
+c00000000524F11070000000000001EBD
+t1380913415
+s7869
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/se.lproj/Localizable.strings
+c00000000524F110700000000000004AB
+t1380913415
+s1195
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-568h@2x~iphone.png
+c00000000524F110700000000000085B1
+t1380913415
+s34225
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000524F11070000000000012DF4
+t1380913415
+s77300
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Landscape~ipad.png
+c00000000524F11070000000000008877
+t1380913415
+s34935
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000524F11070000000000012B02
+t1380913415
+s76546
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Portrait~ipad.png
+c00000000524F110700000000000085E6
+t1380913415
+s34278
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default@2x~iphone.png
+c00000000524F11070000000000007323
+t1380913415
+s29475
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default~iphone.png
+c00000000524F1107000000000000289A
+t1380913415
+s10394
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/config.xml
+c00000000524F113300000000000008A3
+t1380913459
+s2211
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m
+c00000000524F1108000000000000045A
+t1380913416
+s1114
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent
+t1380913469
+s414
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o
+t1380913469
+s78060
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDemo1.LinkFileList
+c00000000524F113B00000000000001D4
+t1380913467
+s468
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o
+t1380913469
+s53308
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o
+t1380913469
+s3152
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Script-304B58A110DAC018002A0835.sh
+c00000000524F113B000000000000002D
+t1380913467
+s45
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app
+t1380913469
+s816
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app.dSYM
+t2
+s0
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1
+t1380913469
+s300984
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-568h@2x~iphone.png
+t1380913469
+s61990
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape@2x~ipad.png
+t1380913468
+s143186
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape~ipad.png
+t1380913468
+s65305
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait@2x~ipad.png
+t1380913468
+s136924
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait~ipad.png
+t1380913468
+s63460
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default@2x~iphone.png
+t1380913468
+s55319
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default~iphone.png
+t1380913468
+s20021
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Info.plist
+t1380913467
+s1352
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/MainViewController.nib
+t1380913467
+s1332
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/PkgInfo
+t2
+s0
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/ResourceRules.plist
+t1380913467
+s150
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/config.xml
+t1380913467
+s2211
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/de.lproj/Localizable.strings
+t1380913467
+s280
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/embedded.mobileprovision
+t1380913469
+s23060
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/en.lproj/Localizable.strings
+t1380913467
+s166
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/es.lproj/Localizable.strings
+t1380913467
+s334
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72.png
+t1380913467
+s8045
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72@2x.png
+t1380913468
+s17926
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon.png
+t1380913467
+s5977
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon@2x.png
+t1380913467
+s13012
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/se.lproj/Localizable.strings
+t1380913467
+s283
+
+N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/libCordova.a
+c00000000524F113B00000000000E3E88
+t1380913467
+s933512
+
+N/Users/jamesjackson/Library/MobileDevice/Provisioning Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision
+c00000000524F0A610000000000005A14
+t1380911713
+s23060
+
+N/var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AppDemo1-Prefix-fkdsgstxcbutlrfahfvdzqurlgki/AppDemo1-Prefix.pch.pch
+t1380913452
+s5281252
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb77f5dbb48ffb741^43e36dbb48ffb741^---0#1#1#--18"Check dependencies36"1A1E0B3D-D0B8-4969-A689-5DA8E57DA784-
+
+CCodeSign /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app
+s402606269.617495
+e402606269.886131
+r1
+xCodeSign
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"CodeSign build/device/AppDemo1.app34"CodeSign build/device/AppDemo1.app93739ebd48ffb741^56f1e2bd48ffb741^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/0000000000000000^1331"CodeSign build/device/AppDemo1.app    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    Using code signing identity "iPhone Developer: Jennifer McCarrick (5TMP78RMGA)" and provisioning profile "testProvision" (784B5BAC-5CF7-4521-8067-1DD1A5D854B7)    codesign --force --sign DBCC847EB70FA265AE5AC9087550D5F92AE88A37 --resource-rules=/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/ResourceRules.plist --entitlements /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app36"AFAB7D4B-F6E6-4B03-8DE6-3BA03975C3D2-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402606269.069395
+e402606269.143511
+r1
+xCompileC
+xbuild/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m194"CompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o AppDemo1/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf4dd11bd48ffb741^98bd24bd48ffb741^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m0000000000000000^4107"CompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o AppDemo1/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-generated-files.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-own-target-headers.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-all-target-headers.hmap -iquote /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-project-headers.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/usr/local/lib/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/UninstalledProducts/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources/armv7 -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources -F/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -include /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AppDemo1-Prefix-fkdsgstxcbutlrfahfvdzqurlgki/AppDemo1-Prefix.pch -MMD -MT dependencies -MF /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.dia -c /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/AppDelegate.m -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o36"3ED7CFBC-8298-4D2B-ACAA-20F1BE80AC18-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402606269.098550
+e402606269.150253
+r1
+xCompileC
+xbuild/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m208"CompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o AppDemo1/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5c5619bd48ffb741^2d7726bd48ffb741^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m0000000000000000^4149"CompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o AppDemo1/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-generated-files.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-own-target-headers.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-all-target-headers.hmap -iquote /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-project-headers.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/usr/local/lib/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/UninstalledProducts/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources/armv7 -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources -F/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -include /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AppDemo1-Prefix-fkdsgstxcbutlrfahfvdzqurlgki/AppDemo1-Prefix.pch -MMD -MT dependencies -MF /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.dia -c /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.m -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o36"1FEDF822-D377-4869-8A9A-3E38C5483C23-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402606269.069189
+e402606269.096658
+r1
+xCompileC
+xbuild/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m172"CompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o AppDemo1/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6bd211bd48ffb741^aa2919bd48ffb741^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m0000000000000000^4049"CompileC build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o AppDemo1/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-generated-files.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-own-target-headers.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-all-target-headers.hmap -iquote /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-project-headers.hmap -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/usr/local/lib/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/UninstalledProducts/include -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources/armv7 -I/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources -F/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -include /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AppDemo1-Prefix-fkdsgstxcbutlrfahfvdzqurlgki/AppDemo1-Prefix.pch -MMD -MT dependencies -MF /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.dia -c /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/main.m -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o36"4B4ED3ED-52C0-4D46-8449-8A937B13A41A-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCompileXIB /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.xib
+s402606267.905017
+e402606267.923011
+r1
+xCompileXIB
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.xib50"CompileXIB AppDemo1/Classes/MainViewController.xibe3c4e7bb48ffb741^494cecbb48ffb741^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.xib0000000000000000^1089"CompileXIB AppDemo1/Classes/MainViewController.xib    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/MainViewController.nib /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Classes/MainViewController.xib36"0772ADAD-2FDC-4D1F-9C08-719213B3079E-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-568h@2x~iphone.png AppDemo1/Resources/splash/Default-568h@2x~iphone.png
+s402606268.890732
+e402606269.059153
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-568h@2x~iphone.png
+xAppDemo1/Resources/splash/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile build/device/AppDemo1.app/Default-568h@2x~iphone.png AppDemo1/Resources/splash/Default-568h@2x~iphone.png117"CopyPNGFile build/device/AppDemo1.app/Default-568h@2x~iphone.png AppDemo1/Resources/splash/Default-568h@2x~iphone.png261ae4bc48ffb741^00370fbd48ffb741^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-568h@2x~iphone.png0000000000000000^1024"CopyPNGFile build/device/AppDemo1.app/Default-568h@2x~iphone.png AppDemo1/Resources/splash/Default-568h@2x~iphone.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-568h@2x~iphone.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-568h@2x~iphone.png36"F57B389A-B88E-4320-9C95-D7238ED34614-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape@2x~ipad.png AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png
+s402606267.921657
+e402606268.654108
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape@2x~ipad.png
+xAppDemo1/Resources/splash/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"CopyPNGFile build/device/AppDemo1.app/Default-Landscape@2x~ipad.png AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png123"CopyPNGFile build/device/AppDemo1.app/Default-Landscape@2x~ipad.png AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png770fecbb48ffb741^5281a7bc48ffb741^---0#0#1#-19%DVTDocumentLocation2@141"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png0000000000000000^1036"CopyPNGFile build/device/AppDemo1.app/Default-Landscape@2x~ipad.png AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Landscape@2x~ipad.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape@2x~ipad.png36"32BA4E16-E484-41F5-9CC5-1373DA24B69F-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape~ipad.png AppDemo1/Resources/splash/Default-Landscape~ipad.png
+s402606267.924245
+e402606268.156415
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape~ipad.png
+xAppDemo1/Resources/splash/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile build/device/AppDemo1.app/Default-Landscape~ipad.png AppDemo1/Resources/splash/Default-Landscape~ipad.png117"CopyPNGFile build/device/AppDemo1.app/Default-Landscape~ipad.png AppDemo1/Resources/splash/Default-Landscape~ipad.png08b0ecbb48ffb741^a41828bc48ffb741^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Landscape~ipad.png0000000000000000^1024"CopyPNGFile build/device/AppDemo1.app/Default-Landscape~ipad.png AppDemo1/Resources/splash/Default-Landscape~ipad.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Landscape~ipad.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Landscape~ipad.png36"937A3E20-665F-4B1B-A8F3-20B0096FE2BA-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait@2x~ipad.png AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png
+s402606268.157706
+e402606268.887388
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait@2x~ipad.png
+xAppDemo1/Resources/splash/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile build/device/AppDemo1.app/Default-Portrait@2x~ipad.png AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png121"CopyPNGFile build/device/AppDemo1.app/Default-Portrait@2x~ipad.png AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png217428bc48ffb741^043ae3bc48ffb741^---0#0#1#-19%DVTDocumentLocation2@140"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png0000000000000000^1032"CopyPNGFile build/device/AppDemo1.app/Default-Portrait@2x~ipad.png AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Portrait@2x~ipad.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait@2x~ipad.png36"3B2B3F8D-F97F-4C48-934C-F12A920C5AF3-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait~ipad.png AppDemo1/Resources/splash/Default-Portrait~ipad.png
+s402606268.655416
+e402606268.778262
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait~ipad.png
+xAppDemo1/Resources/splash/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile build/device/AppDemo1.app/Default-Portrait~ipad.png AppDemo1/Resources/splash/Default-Portrait~ipad.png115"CopyPNGFile build/device/AppDemo1.app/Default-Portrait~ipad.png AppDemo1/Resources/splash/Default-Portrait~ipad.png0ff1a7bc48ffb741^923cc7bc48ffb741^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Portrait~ipad.png0000000000000000^1020"CopyPNGFile build/device/AppDemo1.app/Default-Portrait~ipad.png AppDemo1/Resources/splash/Default-Portrait~ipad.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default-Portrait~ipad.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default-Portrait~ipad.png36"626923C4-9B62-46B6-A1C8-A2456C84F90C-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default@2x~iphone.png AppDemo1/Resources/splash/Default@2x~iphone.png
+s402606268.779530
+e402606268.884845
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default@2x~iphone.png
+xAppDemo1/Resources/splash/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"CopyPNGFile build/device/AppDemo1.app/Default@2x~iphone.png AppDemo1/Resources/splash/Default@2x~iphone.png107"CopyPNGFile build/device/AppDemo1.app/Default@2x~iphone.png AppDemo1/Resources/splash/Default@2x~iphone.png12a3c7bc48ffb741^0987e2bc48ffb741^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default@2x~iphone.png0000000000000000^1004"CopyPNGFile build/device/AppDemo1.app/Default@2x~iphone.png AppDemo1/Resources/splash/Default@2x~iphone.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default@2x~iphone.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default@2x~iphone.png36"22CF2E30-7D7C-4F26-A8AC-D786194CF099-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default~iphone.png AppDemo1/Resources/splash/Default~iphone.png
+s402606268.886074
+e402606268.952734
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default~iphone.png
+xAppDemo1/Resources/splash/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"CopyPNGFile build/device/AppDemo1.app/Default~iphone.png AppDemo1/Resources/splash/Default~iphone.png101"CopyPNGFile build/device/AppDemo1.app/Default~iphone.png AppDemo1/Resources/splash/Default~iphone.pngc8eae2bc48ffb741^adfbf3bc48ffb741^---0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default~iphone.png0000000000000000^992"CopyPNGFile build/device/AppDemo1.app/Default~iphone.png AppDemo1/Resources/splash/Default~iphone.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/splash/Default~iphone.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Default~iphone.png36"5CF998DD-D1EA-4C42-B67A-7E59410D862F-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72.png AppDemo1/Resources/icons/icon-72.png
+s402606267.770424
+e402606267.862258
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72.png
+xAppDemo1/Resources/icons/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile build/device/AppDemo1.app/icon-72.png AppDemo1/Resources/icons/icon-72.png86"CopyPNGFile build/device/AppDemo1.app/icon-72.png AppDemo1/Resources/icons/icon-72.png124cc5bb48ffb741^32c9dcbb48ffb741^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon-72.png0000000000000000^962"CopyPNGFile build/device/AppDemo1.app/icon-72.png AppDemo1/Resources/icons/icon-72.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon-72.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72.png36"31E47F59-1217-4712-8DD4-743E37859795-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72@2x.png AppDemo1/Resources/icons/icon-72@2x.png
+s402606268.954043
+e402606268.991080
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72@2x.png
+xAppDemo1/Resources/icons/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile build/device/AppDemo1.app/icon-72@2x.png AppDemo1/Resources/icons/icon-72@2x.png92"CopyPNGFile build/device/AppDemo1.app/icon-72@2x.png AppDemo1/Resources/icons/icon-72@2x.png1650f4bc48ffb741^9eb7fdbc48ffb741^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon-72@2x.png0000000000000000^974"CopyPNGFile build/device/AppDemo1.app/icon-72@2x.png AppDemo1/Resources/icons/icon-72@2x.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon-72@2x.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon-72@2x.png36"DF4F896A-2B10-4FBD-B136-C527042E90F6-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon.png AppDemo1/Resources/icons/icon.png
+s402606267.774894
+e402606267.862001
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon.png
+xAppDemo1/Resources/icons/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile build/device/AppDemo1.app/icon.png AppDemo1/Resources/icons/icon.png80"CopyPNGFile build/device/AppDemo1.app/icon.png AppDemo1/Resources/icons/icon.pngfc72c6bb48ffb741^93c6dcbb48ffb741^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon.png0000000000000000^950"CopyPNGFile build/device/AppDemo1.app/icon.png AppDemo1/Resources/icons/icon.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon.png36"DFEF53F1-55EB-4952-9F44-3188D250B2F7-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyPNGFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon@2x.png AppDemo1/Resources/icons/icon@2x.png
+s402606267.864006
+e402606267.908803
+r1
+xCopyPNGFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon@2x.png
+xAppDemo1/Resources/icons/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile build/device/AppDemo1.app/icon@2x.png AppDemo1/Resources/icons/icon@2x.png86"CopyPNGFile build/device/AppDemo1.app/icon@2x.png AppDemo1/Resources/icons/icon@2x.pngc651ddbb48ffb741^f8e1e8bb48ffb741^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon@2x.png0000000000000000^962"CopyPNGFile build/device/AppDemo1.app/icon@2x.png AppDemo1/Resources/icons/icon@2x.png    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/icons/icon@2x.png /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/icon@2x.png36"B1F2091C-EB31-4574-A857-D3DB71666D50-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/de.lproj/Localizable.strings AppDemo1/Resources/de.lproj/Localizable.strings
+s402606267.910045
+e402606267.913786
+r1
+xCopyStringsFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/de.lproj/Localizable.strings
+xAppDemo1/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy AppDemo1/Resources/de.lproj/Localizable.strings118"CopyStringsFile build/device/AppDemo1.app/de.lproj/Localizable.strings AppDemo1/Resources/de.lproj/Localizable.strings200be9bb48ffb741^fdfae9bb48ffb741^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/de.lproj/Localizable.strings0000000000000000^914"CopyStringsFile build/device/AppDemo1.app/de.lproj/Localizable.strings AppDemo1/Resources/de.lproj/Localizable.strings    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/de.lproj -- AppDemo1/Resources/de.lproj/Localizable.strings36"53A53DBC-2722-4388-9CCA-170B63604D5F-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/en.lproj/Localizable.strings AppDemo1/Resources/en.lproj/Localizable.strings
+s402606267.865266
+e402606267.887079
+r1
+xCopyStringsFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/en.lproj/Localizable.strings
+xAppDemo1/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy AppDemo1/Resources/en.lproj/Localizable.strings118"CopyStringsFile build/device/AppDemo1.app/en.lproj/Localizable.strings AppDemo1/Resources/en.lproj/Localizable.strings8fabddbb48ffb741^4835e4bb48ffb741^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/en.lproj/Localizable.strings0000000000000000^914"CopyStringsFile build/device/AppDemo1.app/en.lproj/Localizable.strings AppDemo1/Resources/en.lproj/Localizable.strings    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/en.lproj -- AppDemo1/Resources/en.lproj/Localizable.strings36"D8EDAD5A-12FA-4F7A-B66C-E8907D58CF96-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/es.lproj/Localizable.strings AppDemo1/Resources/es.lproj/Localizable.strings
+s402606267.890974
+e402606267.902930
+r1
+xCopyStringsFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/es.lproj/Localizable.strings
+xAppDemo1/Resources/es.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy AppDemo1/Resources/es.lproj/Localizable.strings118"CopyStringsFile build/device/AppDemo1.app/es.lproj/Localizable.strings AppDemo1/Resources/es.lproj/Localizable.strings242ae4bb48ffb741^1e34e7bb48ffb741^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/es.lproj/Localizable.strings0000000000000000^914"CopyStringsFile build/device/AppDemo1.app/es.lproj/Localizable.strings AppDemo1/Resources/es.lproj/Localizable.strings    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/es.lproj -- AppDemo1/Resources/es.lproj/Localizable.strings36"2B04DF75-3A80-467A-8190-B44A78F6B089-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCopyStringsFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/se.lproj/Localizable.strings AppDemo1/Resources/se.lproj/Localizable.strings
+s402606267.915053
+e402606267.920364
+r1
+xCopyStringsFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/se.lproj/Localizable.strings
+xAppDemo1/Resources/se.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy AppDemo1/Resources/se.lproj/Localizable.strings118"CopyStringsFile build/device/AppDemo1.app/se.lproj/Localizable.strings AppDemo1/Resources/se.lproj/Localizable.stringsb151eabb48ffb741^6f9debbb48ffb741^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/Resources/se.lproj/Localizable.strings0000000000000000^914"CopyStringsFile build/device/AppDemo1.app/se.lproj/Localizable.strings AppDemo1/Resources/se.lproj/Localizable.strings    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/se.lproj -- AppDemo1/Resources/se.lproj/Localizable.strings36"21352578-87FE-4B0E-9433-A3B7880D0B86-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/AppDemo1.app/ResourceRules.plist
+s402606267.444558
+e402606267.447471
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/device/AppDemo1.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/device/AppDemo1.app/ResourceRules.plist178"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/AppDemo1.app/ResourceRules.plistb9e371bb48ffb741^89d474bb48ffb741^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/ResourceRules.plist0038641fdfffdf42^1058"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/AppDemo1.app/ResourceRules.plist    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app36"777ADD52-F2A9-4806-BE9E-C2857FA627DB-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CCpResource AppDemo1/config.xml build/device/AppDemo1.app/config.xml
+s402606267.769669
+e402606267.772838
+r1
+xCpResource
+xAppDemo1/config.xml
+xbuild/device/AppDemo1.app/config.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/device/AppDemo1.app/config.xml67"CpResource AppDemo1/config.xml build/device/AppDemo1.app/config.xmlb62ec5bb48ffb741^ee05c6bb48ffb741^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/config.xml0038641fdfffdf42^915"CpResource AppDemo1/config.xml build/device/AppDemo1.app/config.xml    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/config.xml /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app36"8E6EA8C2-CB65-47B2-BC7F-FC302E7BFC44-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CGenerateDSYMFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app.dSYM /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1
+s402606269.378803
+e402606269.546220
+r1
+xGenerateDSYMFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app.dSYM
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Generate /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app.dSYM82"GenerateDSYMFile build/device/AppDemo1.app.dSYM build/device/AppDemo1.app/AppDemo1d00d61bd48ffb741^75e98bbd48ffb741^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app.dSYM0038641fdfffdf42^941"GenerateDSYMFile build/device/AppDemo1.app.dSYM build/device/AppDemo1.app/AppDemo1    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1 -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app.dSYM36"5EC61441-7612-4289-A377-F0A2CDA96D4E-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CLd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1 normal armv7
+s402606269.159263
+e402606269.370255
+r1
+xLd
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo1
+xnormal
+xarmv7
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDemo1.LinkFileList
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/crt1.3.1.o
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/main.o
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDelegate.o
+d/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo150"Ld build/device/AppDemo1.app/AppDemo1 normal armv7d3de28bd48ffb741^e2c95ebd48ffb741^---0#0#1#--2026"Ld build/device/AppDemo1.app/AppDemo1 normal armv7    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -F/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device -filelist /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDemo1.LinkFileList -dead_strip -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework AssetsLibrary /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDemo1_dependency_info.dat -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/AppDemo136"4C1F6DE5-2F91-4237-A505-9448D7892224-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CPhaseScriptExecution Copy\ www\ directory /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Script-304B58A110DAC018002A0835.sh
+s402606267.456535
+e402606267.761734
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.267s
+ouser	0m0.089s
+osys	0m0.103s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'127"PhaseScriptExecution Copy\ www\ directory build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Script-304B58A110DAC018002A0835.sh429675bb48ffb741^ea24c3bb48ffb741^-42"real	0m0.267suser	0m0.089ssys	0m0.103s3(21%IDEActivityLogMessage2@14"real	0m0.267s-402606267#1#14#-0#-----2@14"user	0m0.089s-402606267#15#14#-0#-----2@13"sys	0m0.103s-402606267#29#13#-0#-----0#0#1#--23170"PhaseScriptExecution Copy\ www\ directory build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Script-304B58A110DAC018002A0835.sh    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jamesjackson    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD "armv7 armv7s"    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_64_BIT arm64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "armv7 armv7s arm64"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build    setenv BUILD_ROOT /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device    setenv CACHE_ROOT /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CCHROOT /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_BOOL_CONVERSION YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device    setenv CONFIGURATION_TEMP_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH AppDemo1.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH AppDemo1.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/AppDemo1.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME AppDemo1.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH AppDemo1.app/Executables    setenv EXECUTABLE_FOLDER_PATH AppDemo1.app    setenv EXECUTABLE_NAME AppDemo1    setenv EXECUTABLE_PATH AppDemo1.app/AppDemo1    setenv FILE_LIST /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH AppDemo1.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME AppDemo1.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER AppDemo1/AppDemo1-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNDECLARED_SELECTOR YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/include \"/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/usr/local/lib/include\" \"/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/UninstalledProducts/include\" \"/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE AppDemo1/AppDemo1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH AppDemo1.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH AppDemo1.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/AppDemo1.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jamesjackson    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/AppDemo1.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH AppDemo1.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDemo1_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1-LinkMap-normal-armv7.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal/armv7/AppDemo1.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH AppDemo1.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12F45    setenv MAC_OS_X_VERSION_ACTUAL 1085    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0805    setenv MODULE_CACHE_DIR /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Objects-normal    setenv OBJROOT /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load \"/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/libCordova.a\" -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/local/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH AppDemo1.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/PkgInfo    setenv PKGINFO_PATH AppDemo1.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH arm64    setenv PLATFORM_PRODUCT_BUILD_VERSION 11A465    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH AppDemo1.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH AppDemo1.app/PrivateHeaders    setenv PRODUCT_NAME AppDemo1    setenv PRODUCT_SETTINGS_PATH /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT AppDemo1    setenv PROJECT_DERIVED_FILE_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/DerivedSources    setenv PROJECT_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PROJECT_FILE_PATH /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1.xcodeproj    setenv PROJECT_NAME AppDemo1    setenv PROJECT_TEMP_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build    setenv PROJECT_TEMP_ROOT /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH AppDemo1.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH AppDemo1.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_NAME iphoneos7.0    setenv SDK_PRODUCT_BUILD_VERSION 11A465    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH AppDemo1.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH AppDemo1.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv SRCROOT /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME AppDemo1    setenv TARGET_BUILD_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device    setenv TARGET_NAME AppDemo1    setenv TARGET_TEMP_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build    setenv TEMP_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build    setenv TEMP_FILES_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build    setenv TEMP_FILE_DIR /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build    setenv TEMP_ROOT /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH AppDemo1.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER jamesjackson    setenv USER_APPS_DIR /Users/jamesjackson/Applications    setenv USER_LIBRARY_DIR /Users/jamesjackson/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH AppDemo1.app/version.plist    setenv VERSION_INFO_BUILDER jamesjackson    setenv VERSION_INFO_FILE AppDemo1_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:AppDemo1  PROJECT:AppDemo1-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME AppDemo1.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A1413    setenv XCODE_VERSION_ACTUAL 0500    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH AppDemo1.app/XPCServices    setenv YACC yacc    setenv arch armv7    setenv variant normal    /bin/sh -c /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/Script-304B58A110DAC018002A0835.sh36"ED761FA4-16AE-4EFF-A02E-65C9D9AD66E3-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CProcessInfoPlistFile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Info.plist /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist
+s402606267.430411
+e402606267.436313
+r1
+xProcessInfoPlistFile
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Info.plist
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Process /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist86"ProcessInfoPlistFile build/device/AppDemo1.app/Info.plist AppDemo1/AppDemo1-Info.plistd0466ebb48ffb741^10ce6fbb48ffb741^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist0000000000000000^1180"ProcessInfoPlistFile build/device/AppDemo1.app/Info.plist AppDemo1/AppDemo1-Info.plist    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/AppDemo1/AppDemo1-Info.plist -genpkginfo /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/ResourceRules.plist -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/Info.plist36"CC1C92FD-D8A3-49AF-9FBF-F13BE69D9C18-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CProcessPCH /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AppDemo1-Prefix-fkdsgstxcbutlrfahfvdzqurlgki/AppDemo1-Prefix.pch.pch AppDemo1/AppDemo1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent
+s402606269.600390
+e402606269.605750
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection210"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent210"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent47c799bd48ffb741^e4129bbd48ffb741^---0#0#1#-19%DVTDocumentLocation2@151"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent0038641fdfffdf42^1082"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/AppDemo1.build/Debug-iphoneos/AppDemo1.build/AppDemo1.xcent36"19049267-A8D8-48F3-9AE5-DCF1719190D6-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CProcessProductPackaging /Users/jamesjackson/Library/MobileDevice/Provisioning\ Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/embedded.mobileprovision
+s402606269.559143
+e402606269.569840
+r1
+xProcessProductPackaging
+x/Users/jamesjackson/Library/MobileDevice/Provisioning Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection191"ProcessProductPackaging /Users/jamesjackson/Library/MobileDevice/Provisioning\ Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision build/device/AppDemo1.app/embedded.mobileprovision191"ProcessProductPackaging /Users/jamesjackson/Library/MobileDevice/Provisioning\ Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision build/device/AppDemo1.app/embedded.mobileprovision473a8fbd48ffb741^eb6e92bd48ffb741^---0#0#1#-19%DVTDocumentLocation2@136"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/embedded.mobileprovision0038641fdfffdf42^1018"ProcessProductPackaging /Users/jamesjackson/Library/MobileDevice/Provisioning\ Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision build/device/AppDemo1.app/embedded.mobileprovision    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Users/jamesjackson/Library/MobileDevice/Provisioning\ Profiles/784B5BAC-5CF7-4521-8067-1DD1A5D854B7.mobileprovision -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app/embedded.mobileprovision36"4AC47428-3428-4B9E-886D-0CD54906C73E-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
+CTouch /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app
+s402606269.581197
+e402606269.591919
+r1
+xTouch
+x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app31"Touch build/device/AppDemo1.app55dc94bd48ffb741^448897bd48ffb741^---0#0#1#--699"Touch build/device/AppDemo1.app    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/device/AppDemo1.app36"08235641-E6DD-441F-A779-807932AC0EF2-
+b64CDC9AC-0E98-4C8D-9F46-921F4E233440
+
