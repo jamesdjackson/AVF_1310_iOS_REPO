@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8F64C302-D576-485E-BE17-8668CD2E81B6</string>
+	<string>7770572D-A5E8-4EB0-9B74-BB6126DC95E5</string>
 	<key>IDESourceControlProjectName</key>
 	<string>AppDemo1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>48BEDE9C-B7C9-4C0F-BC01-338931DBBE1F</key>
-		<string>https://github.com/jamesdjackson/AVF-1310-Project-1.git</string>
+		<key>E03ECA79-B30C-4A09-B5CD-10B48465C7A8</key>
+		<string>https://github.com/jamesdjackson/AVF_1310_iOS_REPO.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>platforms/ios/AppDemo1.xcodeproj/project.xcworkspace</string>
+	<string>AppDemo1.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>48BEDE9C-B7C9-4C0F-BC01-338931DBBE1F</key>
-		<string>../../../..</string>
+		<key>E03ECA79-B30C-4A09-B5CD-10B48465C7A8</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jamesdjackson/AVF-1310-Project-1.git</string>
+	<string>https://github.com/jamesdjackson/AVF_1310_iOS_REPO.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>48BEDE9C-B7C9-4C0F-BC01-338931DBBE1F</string>
+	<string>E03ECA79-B30C-4A09-B5CD-10B48465C7A8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>48BEDE9C-B7C9-4C0F-BC01-338931DBBE1F</string>
+			<string>E03ECA79-B30C-4A09-B5CD-10B48465C7A8</string>
 			<key>IDESourceControlWCCName</key>
-			<string>AVF1310Project1</string>
+			<string>AVF_1310_iOS_REPO</string>
 		</dict>
 	</array>
 </dict>

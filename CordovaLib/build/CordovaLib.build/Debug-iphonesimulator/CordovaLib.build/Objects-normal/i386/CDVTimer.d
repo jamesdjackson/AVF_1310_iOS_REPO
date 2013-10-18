@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVTimer.m \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVTimer.h
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVTimer.m \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVTimer.h

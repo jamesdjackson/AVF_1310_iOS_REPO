@@ -2,53 +2,53 @@ TCordovaLib
 v6
 r1
 cCheck dependencies
-cCpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-cCpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-cCpHeader Classes/NSData+Base64.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
-cCpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-cCpHeader Classes/CDVPlugin.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-cCpHeader Classes/CDVDebug.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
-cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-cCpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-cCpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
-cCpHeader Classes/CDVViewController.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-cCpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-cCpHeader Classes/CDV.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h
-cCpHeader Classes/CDVAvailability.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-cCpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
-cCpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
-cCpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
-cCpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-cCpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-cCpHeader Classes/CDVShared.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.h
-cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-cCpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
-cCpHeader Classes/CDVJSON.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
-cCpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
-cCpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
-cCpHeader Classes/CDVTimer.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
-cProcessPCH /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dfwxobattqbztodksahcjrrswbrh/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a normal i386
+cCpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bobkagbolvuyswhgpxmieuifoerw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a normal i386
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
 c00000000521BCCE50000000000000176
@@ -65,754 +65,754 @@ c00000000524E3A67000000000000019E
 t1380858471
 s414
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDV.h
-c00000000524F11080000000000000516
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDV.h
+c0000000052606CD20000000000000516
+t1382051026
 s1302
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVAvailability.h
-c00000000524F11080000000000000C83
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c0000000052606CD20000000000000C83
+t1382051026
 s3203
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
-c00000000524F110800000000000008BA
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c0000000052606CD200000000000008BA
+t1382051026
 s2234
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
-c00000000524F11080000000000000473
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c0000000052606CD20000000000000473
+t1382051026
 s1139
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
-c00000000524F1108000000000000126E
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c0000000052606CD2000000000000126E
+t1382051026
 s4718
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
-c00000000524F11080000000000000501
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c0000000052606CD20000000000000501
+t1382051026
 s1281
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
-c00000000524F1108000000000000158B
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c0000000052606CD2000000000000158B
+t1382051026
 s5515
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
-c00000000524F110800000000000004CB
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c0000000052606CD200000000000004CB
+t1382051026
 s1227
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
-c00000000524F11080000000000000EB2
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c0000000052606CD20000000000000EB2
+t1382051026
 s3762
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVDebug.h
-c00000000524F11080000000000000401
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c0000000052606CD20000000000000401
+t1382051026
 s1025
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
-c00000000524F110800000000000007E6
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c0000000052606CD200000000000007E6
+t1382051026
 s2022
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
-c00000000524F11080000000000000DDE
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c0000000052606CD20000000000000DDE
+t1382051026
 s3550
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVJSON.h
-c00000000524F110800000000000003DA
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c0000000052606CD200000000000003DA
+t1382051026
 s986
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVJSON.m
-c00000000524F1108000000000000098E
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c0000000052606CD2000000000000098E
+t1382051026
 s2446
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
-c00000000524F110800000000000006CF
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c0000000052606CD200000000000006CF
+t1382051026
 s1743
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
-c00000000524F11080000000000004C7E
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c0000000052606CD20000000000004C7E
+t1382051026
 s19582
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPlugin.h
-c00000000524F11080000000000000892
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c0000000052606CD20000000000000892
+t1382051026
 s2194
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPlugin.m
-c00000000524F110800000000000016AE
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c0000000052606CD200000000000016AE
+t1382051026
 s5806
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
-c00000000524F11080000000000000C13
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c0000000052606CD20000000000000C13
+t1382051026
 s3091
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
-c00000000524F11080000000000001B29
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c0000000052606CD20000000000001B29
+t1382051026
 s6953
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
-c00000000524F11080000000000000408
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c0000000052606CD20000000000000408
+t1382051026
 s1032
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVShared.h
-c00000000524F110800000000000003E6
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVShared.h
+c0000000052606CD200000000000003E6
+t1382051026
 s998
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVShared.m
-c00000000524F110800000000000006B6
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVShared.m
+c0000000052606CD200000000000006B6
+t1382051026
 s1718
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVTimer.h
-c00000000524F1108000000000000038D
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c0000000052606CD2000000000000038D
+t1382051026
 s909
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVTimer.m
-c00000000524F11080000000000000AA2
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c0000000052606CD20000000000000AA2
+t1382051026
 s2722
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
-c00000000524F1108000000000000041C
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c0000000052606CD2000000000000041C
+t1382051026
 s1052
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
-c00000000524F11080000000000002514
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c0000000052606CD20000000000002514
+t1382051026
 s9492
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
-c00000000524F11080000000000000421
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c0000000052606CD20000000000000421
+t1382051026
 s1057
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
-c00000000524F110800000000000012A2
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c0000000052606CD200000000000012A2
+t1382051026
 s4770
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVViewController.h
-c00000000524F11080000000000000ACC
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c0000000052606CD20000000000000ACC
+t1382051026
 s2764
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVViewController.m
-c00000000524F11080000000000009F3C
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c0000000052606CD20000000000009F3C
+t1382051026
 s40764
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
-c00000000524F110800000000000005A2
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c0000000052606CD200000000000005A2
+t1382051026
 s1442
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
-c00000000524F110800000000000037C6
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c0000000052606CD200000000000037C6
+t1382051026
 s14278
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
-c00000000524F110800000000000004B4
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c0000000052606CD200000000000004B4
+t1382051026
 s1204
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
-c00000000524F110800000000000027D3
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c0000000052606CD200000000000027D3
+t1382051026
 s10195
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
-c00000000524F11080000000000000392
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c0000000052606CD20000000000000392
+t1382051026
 s914
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
-c00000000524F110800000000000004D8
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c0000000052606CD200000000000004D8
+t1382051026
 s1240
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSData+Base64.h
-c00000000524F1108000000000000037D
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c0000000052606CD2000000000000037D
+t1382051026
 s893
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSData+Base64.m
-c00000000524F110800000000000022CC
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c0000000052606CD200000000000022CC
+t1382051026
 s8908
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
-c00000000524F110800000000000005DA
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c0000000052606CD200000000000005DA
+t1382051026
 s1498
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
-c00000000524F11080000000000001059
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c0000000052606CD20000000000001059
+t1382051026
 s4185
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
-c00000000524F110800000000000003A0
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c0000000052606CD200000000000003A0
+t1382051026
 s928
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
-c00000000524F11080000000000000584
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c0000000052606CD20000000000000584
+t1382051026
 s1412
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
-c00000000524F11080000000000000476
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c0000000052606CD20000000000000476
+t1382051026
 s1142
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
-c00000000524F11080000000000000620
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c0000000052606CD20000000000000620
+t1382051026
 s1568
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
-c00000000524F11080000000000000346
-t1380913416
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c0000000052606CD20000000000000346
+t1382051026
 s838
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
-t1380913462
-s63204
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1382051050
+s63176
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
-t1380913461
-s60144
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1382051050
+s60116
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
-t1380913461
-s27836
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1382051050
+s27800
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
-t1380913460
-s18776
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1382051049
+s18748
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
-t1380913461
-s10932
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1382051051
+s10904
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
-t1380913461
-s109720
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1382051050
+s109680
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
-t1380913460
-s59580
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1382051050
+s59556
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
-t1380913460
-s37292
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1382051049
+s37268
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
-t1380913462
-s9456
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1382051051
+s9432
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
-t1380913462
-s23004
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1382051051
+s22980
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
-t1380913460
-s71300
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1382051050
+s71272
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
-t1380913462
-s52800
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1382051051
+s52764
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
-t1380913461
-s191932
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1382051051
+s191888
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
-t1380913462
-s71372
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1382051051
+s71344
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
-t1380913460
-s42420
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1382051049
+s42392
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
-c00000000524F11320000000000000E33
-t1380913458
-s3635
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c0000000052606CE80000000000000D7F
+t1382051048
+s3455
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
-t1380913461
-s7536
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1382051050
+s7512
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
-t1380913460
-s11200
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1382051049
+s11176
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
-t1380913460
-s17912
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1382051049
+s17884
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
-t1380913460
-s7048
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1382051049
+s7024
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
-t1380913461
-s9668
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1382051050
+s9640
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
 t2
 s0
 
-N/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a
 t2
 s0
 
-N/var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dfwxobattqbztodksahcjrrswbrh/CordovaLib_Prefix.pch.pch
-t1380913460
-s3202620
+N/var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bobkagbolvuyswhgpxmieuifoerw/CordovaLib_Prefix.pch.pch
+t1382051049
+s3202452
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbc74cfbe48ffb741^ac00e3be48ffb741^---0#1#1#--18"Check dependencies36"2AD47D69-4557-4821-9D6B-3E052D0B868B-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb5e03170a410b841^20ee3e70a410b841^---0#1#1#--18"Check dependencies36"C83560A3-05F3-4613-90AC-C903E69F4395-
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CCpHeader Classes/CDV.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h
-s402606270.934545
-e402606270.938119
+CCpHeader Classes/CDV.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.h
+s403743856.269518
+e403743856.271758
 r1
 xCpHeader
 xClasses/CDV.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h129"CpHeader Classes/CDV.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h478fefbe48ffb741^b874f0be48ffb741^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h0038641fdfffdf42^1005"CpHeader Classes/CDV.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDV.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDV.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"26923111-5FA0-4FAE-9164-9C3790F693F2-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.h120"CpHeader Classes/CDV.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.hae0d4570a410b841^68914570a410b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.h0038981edfffdf42^860"CpHeader Classes/CDV.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDV.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDV.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"0225EA8A-BD02-46CA-B7BD-36F8BE71206F-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVAvailability.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-s402606270.937605
-e402606270.940254
+CCpHeader Classes/CDVAvailability.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s403743856.271382
+e403743856.273758
 r1
 xCpHeader
 xClasses/CDVAvailability.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h153"CpHeader Classes/CDVAvailability.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h371af0be48ffb741^287df1be48ffb741^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h0038641fdfffdf42^1041"CpHeader Classes/CDVAvailability.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"0D566096-FD74-4723-BA2B-81B04864349B-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h144"CpHeader Classes/CDVAvailability.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h83874570a410b841^de204670a410b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h0038981edfffdf42^896"CpHeader Classes/CDVAvailability.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"C964F99C-E266-4C22-9F86-1107E0F88E9D-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-s402606270.913692
-e402606270.935980
+CCpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s403743856.266797
+e403743856.269849
 r1
 xCpHeader
 xClasses/CDVCommandDelegate.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h159"CpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.hecfae9be48ffb741^9c6bf0be48ffb741^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h0038641fdfffdf42^1050"CpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"68EE0CF5-6125-47E6-9DA1-E41888E3E52F-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h150"CpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h815a4470a410b841^971e4570a410b841^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h0038981edfffdf42^905"CpHeader Classes/CDVCommandDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"229B886D-E3F9-4724-AA71-4C2976B59E40-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-s402606270.949913
-e402606270.954844
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s403743856.286748
+e403743856.289448
 r1
 xCpHeader
 xClasses/CDVCommandDelegateImpl.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h167"CpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.hc440f3be48ffb741^a7cdf4be48ffb741^---0#0#1#-19%DVTDocumentLocation2@141"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h0038641fdfffdf42^1062"CpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"895B5943-1EF6-45EB-98FF-56DF1FF96243-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h158"CpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h328e4970a410b841^a8194a70a410b841^---0#0#1#-19%DVTDocumentLocation2@132"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h0038981edfffdf42^917"CpHeader Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"046452C6-0025-4C7E-9114-85D55A681C2E-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-s402606270.946534
-e402606270.950419
+CCpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s403743856.282175
+e403743856.286391
 r1
 xCpHeader
 xClasses/CDVCommandQueue.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h153"CpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h7766f2be48ffb741^fa7df3be48ffb741^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h0038641fdfffdf42^1041"CpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"256E5ED6-9FEC-41AF-82D5-9F60B181CF79-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h144"CpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h724e4870a410b841^b5874970a410b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h0038981edfffdf42^896"CpHeader Classes/CDVCommandQueue.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"BD4B230C-7E0E-497F-B828-7BF871D558AD-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
-s402606270.957049
-e402606270.959877
+CCpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s403743856.292106
+e403743856.295145
 r1
 xCpHeader
 xClasses/CDVConfigParser.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h153"CpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.hf90ff5be48ffb741^f60bf6be48ffb741^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h0038641fdfffdf42^1041"CpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"AEC73CE8-FA86-43B8-9756-83BB28EF6D54-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h144"CpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h88d64a70a410b841^f38e4b70a410b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h0038981edfffdf42^896"CpHeader Classes/CDVConfigParser.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"432FCA4F-FA54-4657-B8F1-2453A244D7E5-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVDebug.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
-s402606270.899155
-e402606270.906119
+CCpHeader Classes/CDVDebug.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s403743856.257324
+e403743856.260500
 r1
 xCpHeader
 xClasses/CDVDebug.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h139"CpHeader Classes/CDVDebug.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h1c45e6be48ffb741^f112e8be48ffb741^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h0038641fdfffdf42^1020"CpHeader Classes/CDVDebug.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVDebug.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"1A7C458C-D3D4-4365-9683-6BB9ABCD3F37-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h130"CpHeader Classes/CDVDebug.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.ha2ec4170a410b841^49ba4270a410b841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h0038981edfffdf42^875"CpHeader Classes/CDVDebug.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"8831C0BA-8233-45E6-8E8C-8A41F1344729-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-s402606270.888362
-e402606270.893483
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s403743856.247193
+e403743856.250406
 r1
 xCpHeader
 xClasses/CDVInvokedUrlCommand.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h163"CpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.hbb7ce3be48ffb741^a8c5e4be48ffb741^---0#0#1#-19%DVTDocumentLocation2@139"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h0038641fdfffdf42^1056"CpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"EA393A5A-C320-4B50-9039-DC9B0CB6B34D-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h154"CpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.hcd593f70a410b841^bc924070a410b841^---0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h0038981edfffdf42^911"CpHeader Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"D539AF1B-63D6-46AB-AF57-9831532A6BA7-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVJSON.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
-s402606270.960332
-e402606270.962830
+CCpHeader Classes/CDVJSON.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s403743856.294310
+e403743856.297338
 r1
 xCpHeader
 xClasses/CDVJSON.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.h137"CpHeader Classes/CDVJSON.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.hffeaf5be48ffb741^c1c5f6be48ffb741^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.h0038641fdfffdf42^1017"CpHeader Classes/CDVJSON.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVJSON.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"FC6A1561-4F58-4E6C-810D-2EDFBA8013A6-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h128"CpHeader Classes/CDVJSON.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.hb6664b70a410b841^bd1e4c70a410b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h0038981edfffdf42^872"CpHeader Classes/CDVJSON.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"8FE27DB2-322C-4B98-9795-C85A6349DBEF-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
-s402606270.939777
-e402606270.942900
+CCpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s403743856.273380
+e403743856.276312
 r1
 xCpHeader
 xClasses/CDVLocalStorage.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h153"CpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h22a6f0be48ffb741^d593f1be48ffb741^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h0038641fdfffdf42^1041"CpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"4BBDD9F1-7815-4475-947A-33801E546BD0-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h144"CpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h1c0b4670a410b841^66674970a410b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h0038981edfffdf42^896"CpHeader Classes/CDVLocalStorage.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"9B6B8702-45DA-46D2-9BDA-5224597287E3-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVPlugin.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-s402606270.897144
-e402606270.899835
+CCpHeader Classes/CDVPlugin.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s403743856.256946
+e403743856.258998
 r1
 xCpHeader
 xClasses/CDVPlugin.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h141"CpHeader Classes/CDVPlugin.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h4dbee5be48ffb741^8d80e6be48ffb741^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h0038641fdfffdf42^1023"CpHeader Classes/CDVPlugin.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"28149B8E-F353-4C37-A498-9A04B57ED6D4-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h132"CpHeader Classes/CDVPlugin.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.hedd74170a410b841^11574270a410b841^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h0038981edfffdf42^878"CpHeader Classes/CDVPlugin.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"947DA0A3-4638-48AD-BFDC-6259D5744D10-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-s402606270.895054
-e402606270.897643
+CCpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s403743856.251529
+e403743856.255963
 r1
 xCpHeader
 xClasses/CDVPluginResult.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h153"CpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.heb35e5be48ffb741^bff1e5be48ffb741^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h0038641fdfffdf42^1041"CpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"DD151241-B0D3-47DB-9964-5759D7C42B35-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h144"CpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.hc5714070a410b841^2f8b4170a410b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h0038981edfffdf42^896"CpHeader Classes/CDVPluginResult.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"EE941349-9B06-4BC4-9A2C-820F43166C97-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-s402606270.956578
-e402606270.958926
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s403743856.290780
+e403743856.292825
 r1
 xCpHeader
 xClasses/CDVScreenOrientationDelegate.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h179"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h6af6f4be48ffb741^d480f5be48ffb741^---0#0#1#-19%DVTDocumentLocation2@147"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h0038641fdfffdf42^1080"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"C28A7DBE-0322-4A6D-B8F9-2F31D5243D3E-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h170"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.hc37f4a70a410b841^f9f64a70a410b841^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h0038981edfffdf42^935"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"026B366D-304A-4A1E-8AA1-AAEA32494E52-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVShared.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.h
-s402606270.952585
-e402606270.955853
+CCpHeader Classes/CDVShared.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s403743856.287599
+e403743856.290818
 r1
 xCpHeader
 xClasses/CDVShared.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.h141"CpHeader Classes/CDVShared.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.hf2eff3be48ffb741^cbd8f4be48ffb741^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.h0038641fdfffdf42^1023"CpHeader Classes/CDVShared.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVShared.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"1328F493-460B-4108-A0E4-F784474AE755-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.h132"CpHeader Classes/CDVShared.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.hf7ae4970a410b841^59884a70a410b841^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.h0038981edfffdf42^878"CpHeader Classes/CDVShared.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVShared.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"058234FF-CBC9-45C8-8E45-F491C737BB2C-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVTimer.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
-s402606270.965715
-e402606270.968640
+CCpHeader Classes/CDVTimer.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s403743856.300911
+e403743856.303157
 r1
 xCpHeader
 xClasses/CDVTimer.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h139"CpHeader Classes/CDVTimer.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h124af7be48ffb741^9143f8be48ffb741^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h0038641fdfffdf42^1020"CpHeader Classes/CDVTimer.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVTimer.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"CFC10F98-6A27-43CE-A3C9-DFD0E207AC6E-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h130"CpHeader Classes/CDVTimer.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h711b4d70a410b841^179c4d70a410b841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h0038981edfffdf42^875"CpHeader Classes/CDVTimer.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"4504D846-877E-4F6A-85CF-C024B0862086-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
-s402606270.910078
-e402606270.912495
+CCpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s403743856.263299
+e403743856.265645
 r1
 xCpHeader
 xClasses/CDVURLProtocol.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h151"CpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h570ae9be48ffb741^33dfe9be48ffb741^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h0038641fdfffdf42^1038"CpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"45E03EB2-D72E-4D0E-8DE4-546A49D8CD34-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h142"CpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.hc8794370a410b841^90154470a410b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h0038981edfffdf42^893"CpHeader Classes/CDVURLProtocol.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"0447EF6B-EA50-456D-A7C4-BBD23C070E8E-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
-s402606270.965531
-e402606270.967760
+CCpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s403743856.298798
+e403743856.301758
 r1
 xCpHeader
 xClasses/CDVUserAgentUtil.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h155"CpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h2442f7be48ffb741^9f3cf8be48ffb741^---0#0#1#-19%DVTDocumentLocation2@135"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h0038641fdfffdf42^1044"CpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"48132142-E9E4-42E1-B499-37FDBCD9F96F-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h146"CpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h2e8c4c70a410b841^68404d70a410b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h0038981edfffdf42^899"CpHeader Classes/CDVUserAgentUtil.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"D1D4764C-E4CE-4B84-A199-0581572BEA17-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVViewController.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-s402606270.910432
-e402606270.932996
+CCpHeader Classes/CDVViewController.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s403743856.265612
+e403743856.268157
 r1
 xCpHeader
 xClasses/CDVViewController.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h157"CpHeader Classes/CDVViewController.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0820e9be48ffb741^fdf5eebe48ffb741^---0#0#1#-19%DVTDocumentLocation2@136"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0038641fdfffdf42^1047"CpHeader Classes/CDVViewController.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"AB7CABDB-EFAD-4EB7-B2BF-6DDCB761173A-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h148"CpHeader Classes/CDVViewController.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h560f4470a410b841^bbb54470a410b841^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0038981edfffdf42^902"CpHeader Classes/CDVViewController.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"99EBCE96-FAAF-4F14-8862-607F9FA1C499-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
-s402606270.960782
-e402606270.964243
+CCpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s403743856.296514
+e403743856.299168
 r1
 xCpHeader
 xClasses/CDVWebViewDelegate.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h159"CpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0804f6be48ffb741^6ad9f6be48ffb741^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0038641fdfffdf42^1050"CpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"E95C1821-367B-4FD9-852C-8BB76DF181EE-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h150"CpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.he4f64b70a410b841^87a24c70a410b841^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0038981edfffdf42^905"CpHeader Classes/CDVWebViewDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"76AA6E01-94AB-460E-A887-E928ED056B80-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-s402606270.907929
-e402606270.909801
+CCpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s403743856.261867
+e403743856.264439
 r1
 xCpHeader
 xClasses/CDVWhitelist.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h147"CpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h677fe8be48ffb741^5ef1e8be48ffb741^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h0038641fdfffdf42^1032"CpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"2ECB00F7-92CD-4C91-AEC0-47463EEDA18D-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h138"CpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h33184370a410b841^abec4370a410b841^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h0038981edfffdf42^887"CpHeader Classes/CDVWhitelist.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"00C5FE03-5682-4F4D-8AF2-94F10594EC63-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
-s402606270.944482
-e402606270.947079
+CCpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s403743856.279799
+e403743856.282641
 r1
 xCpHeader
 xClasses/NSArray+Comparisons.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h161"CpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h7adef1be48ffb741^098bf2be48ffb741^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h0038641fdfffdf42^1053"CpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"5D5F995A-11FF-4FE2-94CB-31E44A25FF84-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h152"CpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.heeb24770a410b841^f1814970a410b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h0038981edfffdf42^908"CpHeader Classes/NSArray+Comparisons.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"094FF490-342A-443C-80DE-B901E11670F9-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/NSData+Base64.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
-s402606270.892440
-e402606270.895571
+CCpHeader Classes/NSData+Base64.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s403743856.251093
+e403743856.255687
 r1
 xCpHeader
 xClasses/NSData+Base64.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h149"CpHeader Classes/NSData+Base64.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h2b89e4be48ffb741^0666e5be48ffb741^---0#0#1#-19%DVTDocumentLocation2@132"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h0038641fdfffdf42^1035"CpHeader Classes/NSData+Base64.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"1888917D-8606-42EE-8488-3E71F651A476-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h140"CpHeader Classes/NSData+Base64.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.hc9594070a410b841^d3844170a410b841^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h0038981edfffdf42^890"CpHeader Classes/NSData+Base64.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"55B0161A-09B4-48D8-BCB9-9C75AF89A5D2-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-s402606270.887567
-e402606270.890903
+CCpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s403743856.246425
+e403743856.249877
 r1
 xCpHeader
 xClasses/NSDictionary+Extensions.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h169"CpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.hce51e3be48ffb741^fa42e4be48ffb741^---0#0#1#-19%DVTDocumentLocation2@142"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h00ac3aec72f6df42^1065"CpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"2D43C245-879C-4601-8868-F1203B9575E3-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h160"CpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.hc6303f70a410b841^38864070a410b841^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h00784f2221fbdf42^920"CpHeader Classes/NSDictionary+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"2B4FCFEC-B053-4A5B-BD13-5711B737EBD5-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-s402606270.905534
-e402606270.908958
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s403743856.260111
+e403743856.262095
 r1
 xCpHeader
 xClasses/NSMutableArray+QueueAdditions.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h181"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.hd6e6e7be48ffb741^f1d7e8be48ffb741^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h0038641fdfffdf42^1083"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"3CDD838F-3A95-4DE3-9BCF-2E6E46A1ACD1-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h172"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.hf8a54270a410b841^03234370a410b841^---0#0#1#-19%DVTDocumentLocation2@139"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h0038981edfffdf42^938"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"B71BF632-0B2F-4CF8-9787-8B37F03E8066-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CCpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
-s402606270.941793
-e402606270.945008
+CCpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s403743856.275575
+e403743856.280690
 r1
 xCpHeader
 xClasses/UIDevice+Extensions.h
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h161"CpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h4e2bf1be48ffb741^821ef2be48ffb741^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h0038641fdfffdf42^1053"CpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/include/Cordova36"6684AB16-8261-499B-890F-55D0CC491A3A-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h152"CpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h1b9e4670a410b841^967b4970a410b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h0038981edfffdf42^908"CpHeader Classes/UIDevice+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include/Cordova36"FAF0C225-C293-429B-93B0-3498B6457AB5-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CLibtool /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a normal i386
-s402606270.984015
-e402606271.042892
+CLibtool /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a normal i386
+s403743856.321012
+e403743856.343966
 r1
 xLibtool
-x/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a
 xnormal
 xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a normal i386117"Libtool /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a normal i3867d06fcbe48ffb741^1afb0abf48ffb741^---0#0#1#--1360"Libtool /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator -filelist /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/build/emulator/libCordova.a36"E23FED5B-4952-436A-832A-3267647D6CBD-
-bD87F85A9-9289-45CE-A6BA-604AF82854A1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Libtool /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a normal i386108"Libtool /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a normal i3869d4a5270a410b841^ff225870a410b841^---0#0#1#--1206"Libtool /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator -filelist /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a36"416BB862-706D-4871-A736-907BDF8FC181-
+bB48F9D6D-B9D9-49AD-96EE-F71EF62DAD2E
 
-CProcessPCH /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dfwxobattqbztodksahcjrrswbrh/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CProcessPCH /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bobkagbolvuyswhgpxmieuifoerw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
