@@ -2,32 +2,57 @@
 
 <html>
     <head>
-        <title>Week 2 App Demo</title>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <script src="js/jquery.mobile-1.3.1.min.js"></script>
-        <script src="/js/jquery-1.10.2.min.js"></script>
-        <link rel="stylesheet" href="css/jquery.mobile.structure-1.3.1.min.css"/>
-        <link rel="stylesheet" href="css/brownTheme.css"/>
+        <meta charset="utf-8">
+        <title>AVF Mashup App</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1,  minimum-scale=1, maximum-scale=1">
+        <link rel="stylesheet" href="css/app.min.css">
+        <script src="js/jQuery2.0.2.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+        <script src="js/main.min.js"></script>
     </head>
-
     <body>
 
-            <ul id="data-output2">
-                <li id="data-msg">Your Images...</li>
+    <div class="app-wrapper">
+
+        <nav class="main-menu">
+            <a href="Instagram.html">Instagram</a>
+            <a href="index.html">Home</a>
+            <a href="Map.html">Map Demo</a>
+            <a href="Youtube.html">YouTube</a>
+        </nav><!--#main-menu-->
+
+        <header>
+            <div class="main-menu-button main-menu-button-left"><a class="menu">&nbsp;</a></div>
+            <h1>API Mashup</h1>
+        </header>
+
+        <div class="app-content">
+    <div class="app-wrapper">
+
+        <nav class="main-menu">
+            <a href="Instagram.html">Instagram</a>
+            <a href="flickr.html">Flickr</a>
+            <a href="Map.html">Map Demo</a>
+            <a href="Youtube.html">YouTube</a>
+        </nav><!--#main-menu-->
+
+        <header>
+            <div class="main-menu-button main-menu-button-left"><a class="left-arrow">&nbsp;</a></div>
+            <div class="main-menu-button main-menu-button-right"><a class="gear">&nbsp;</a></div>
+            <h1>Instagram Stream</h1>
+        </header>
+
+        <ul id="data-output2">
+                <li id="data-msg">Retrieving Images</li>
             </ul>
 
             <div id="center">               
-                 <a href="index.html" data-icon="star" >Home</a>
+                 <a href="index.html" data-icon="star" >home</a>
             </div>
-
-        <script type="text/javascript" src="cordova-2.3.0.js"></script>
+        
+        <script type="text/javascript" src="cordova-2.3.0.js"></script>            
         <script src="http://code.jquery.com/jquery.js"></script>
         <script type="text/javascript" src="js/main.js"></script>
-        <script type="text/javascript" src="phonegap.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
-        <script src="js/jquery-1.10.2.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-
     </body>
 </html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<title>Google Map View</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1,  minimum-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="css/app.min.css">
+<script src="js/jQuery2.0.2.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script src="js/main.min.js"></script>
+
+<script>
+$(document).ready(function() {
+
+    var markers = [
+        {
+            id: 0,
+            lat: 28.59886,
+            lng: -81.301575,
+            contentString: "<div class='infowindow-container'><p class='span-50'><strong>Address</strong><br/><a href='https://maps.apple.com/maps?q=2.474178,-81.301639'>3300 University Blvd<br/>Winter Park, Fl<br/>32792</a></p><p class='span-50'><strong>Phone</strong><br/>555.123.4321</p></div>"
+        },
+        {
+            id: 1,
+            lat: 38.969789,
+            lng: -76.738537,
+            contentString: "<div class='infowindow-container'><p class='span-50'><strong>Address</strong><br/><a href='https://maps.apple.com/maps?q=38.969789,-76.738537'>12417 Stirrup Lane<br/>Bowie, Md<br/>20715</a></p><p class='span-50'><strong>Phone</strong><br/>555.123.4321</p></div>"
+        },
+        {
+            id: 2,
+            lat: 39.108938,
+            lng: -76.771343,
+            contentString: "<div class='infowindow-container'><p class='span-50'><strong>Address</strong><br/><a href='https://maps.apple.com/maps?q=39.108938,-76.771343'>9800 Savage Rd<br/>Ft Meade, Md<br/>20755</a></p><p class='span-50'><strong>Phone</strong><br/>555.123.4321</p></div>"
+        }
+    ]
+    mapObj.init({
+        view: "listView",
+        markers: markers
+    });
+});
+</script>
+
+</head>
+
+<body>
+
+<div class="app-wrapper">
+
+<header>
+<h1>Map Locations Demo</h1>
+
+</header>
+
+<div class="app-content">
+    <nav class="main-menu">
+        <a href="Instagram.html">Instagram</a>
+        <a href="flickr.html">Flickr</a>
+        <a href="Map.html">Map Demo</a>
+        <a href="Youtube.html">YouTube</a>
+    </nav><!--#main-menu-->
+<ul class="list-view left-thumbs right-one-icons">
+    <li>
+        <div class="thumbs">
+            <img class="thumb thumb-1" src="img/fullsail.jpg" width=90px height=90px>
+        </div><!-- .thumbs -->
+        <a href="#" class="content" data-map-id="0">
+            <h2>Full Sail University</h2>
+            My College
+            <div class="list-view-icons">
+                <span class="icon-map-dot">&nbsp;</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <div class="thumbs">
+            <img class="thumb thumb-2" src="img/james.jpg" width=90px height=90px>
+        </div><!-- .thumbs -->
+        <a href="#" class="content" data-map-id="1">
+            <h2>Bowie, Md</h2>
+            My Home
+            <div class="list-view-icons">
+                <span class="icon-map-dot">&nbsp;</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <div class="thumbs">
+            <img class="thumb thumb-3" src="img/CYBERCOM.png" width=90px height=90px>
+        </div><!-- .thumbs -->
+        <a href="#" class="content" data-map-id="2">
+            <h2>United States Cyber Command</h2>
+            My Job
+            <div class="list-view-icons">
+                <span class="icon-map-dot">&nbsp;</span>
+            </div>
+        </a>
+    </li>
+</ul>
+
+</div>
+
+<div id="map-canvas-wrapper" class="map-canvas-wrapper map-canvas-wrapper-list-view">
+</div>
+
+</div>
+
+</body>
+</html>

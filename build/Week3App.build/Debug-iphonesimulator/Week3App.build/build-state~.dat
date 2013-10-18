@@ -1,0 +1,328 @@
+TWeek3App
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Info.plist /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Script-304B58A110DAC018002A0835.sh
+cCpResource Week3App/config.xml build/emulator/Week3App.app/config.xml
+cCpResource Week3App/Resources/icons/icon-72.png build/emulator/Week3App.app/icon-72.png
+cCpResource Week3App/Resources/icons/icon.png build/emulator/Week3App.app/icon.png
+cCpResource Week3App/Resources/icons/icon@2x.png build/emulator/Week3App.app/icon@2x.png
+cCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/en.lproj/Localizable.strings Week3App/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/es.lproj/Localizable.strings Week3App/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.xib
+cCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/de.lproj/Localizable.strings Week3App/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/se.lproj/Localizable.strings Week3App/Resources/se.lproj/Localizable.strings
+cCpResource Week3App/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Week3App.app/Default-Landscape@2x~ipad.png
+cCpResource Week3App/Resources/splash/Default-Landscape~ipad.png build/emulator/Week3App.app/Default-Landscape~ipad.png
+cCpResource Week3App/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Week3App.app/Default-Portrait@2x~ipad.png
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.xib
+c0000000052606CD10000000000001759
+t1382051025
+s5977
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/de.lproj/Localizable.strings
+c0000000052606CD100000000000004BF
+t1382051025
+s1215
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/en.lproj/Localizable.strings
+c0000000052606CD100000000000004AA
+t1382051025
+s1194
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/es.lproj/Localizable.strings
+c0000000052606CD100000000000004B7
+t1382051025
+s1207
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/icons/icon-72.png
+c0000000052606CD10000000000001350
+t1382051025
+s4944
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/icons/icon.png
+c0000000052606CD10000000000000F3E
+t1382051025
+s3902
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/icons/icon@2x.png
+c0000000052606CD10000000000001EBD
+t1382051025
+s7869
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/se.lproj/Localizable.strings
+c0000000052606CD100000000000004AB
+t1382051025
+s1195
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000052606CD10000000000012DF4
+t1382051025
+s77300
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/splash/Default-Landscape~ipad.png
+c0000000052606CD10000000000008877
+t1382051025
+s34935
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000052606CD10000000000012B02
+t1382051025
+s76546
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist
+c0000000052606CE80000000000000743
+t1382051048
+s1859
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/config.xml
+c0000000052606CE800000000000008A3
+t1382051048
+s2211
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Script-304B58A110DAC018002A0835.sh
+c0000000052606CEB000000000000002D
+t1382051051
+s45
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Info.plist
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/MainViewController.nib
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/PkgInfo
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/config.xml
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/icon-72.png
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/icon.png
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/icon@2x.png
+t2
+s0
+
+N/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/se.lproj/Localizable.strings
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6a2f666ba410b841^89436a6ba410b841^---0#1#1#--18"Check dependencies36"7323D687-7AC6-4B6F-B960-4184A035E747-
+
+CCompileC build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects-normal/i386/AppDelegate.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects-normal/i386/MainViewController.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects-normal/i386/main.o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileXIB /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.xib
+s403743851.878448
+e403743851.908023
+r1
+xCompileXIB
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compiling /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.xib50"CompileXIB Week3App/Classes/MainViewController.xib77f3e06ba410b841^ed9ee86ba410b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.xib0000000000000000^1007"CompileXIB Week3App/Classes/MainViewController.xib    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/MainViewController.nib /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Classes/MainViewController.xib36"C52CCBCE-1E5B-446E-81A6-1F64D731F04F-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/de.lproj/Localizable.strings Week3App/Resources/de.lproj/Localizable.strings
+s403743851.878973
+e403743851.885259
+r1
+xCopyStringsFile
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/de.lproj/Localizable.strings
+xWeek3App/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Week3App/Resources/de.lproj/Localizable.strings120"CopyStringsFile build/emulator/Week3App.app/de.lproj/Localizable.strings Week3App/Resources/de.lproj/Localizable.strings7712e16ba410b841^8675e36ba410b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/de.lproj/Localizable.strings0000000000000000^798"CopyStringsFile build/emulator/Week3App.app/de.lproj/Localizable.strings Week3App/Resources/de.lproj/Localizable.strings    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/de.lproj -- Week3App/Resources/de.lproj/Localizable.strings36"51A2A511-FA38-4357-8352-E0E1036D158B-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/en.lproj/Localizable.strings Week3App/Resources/en.lproj/Localizable.strings
+s403743851.873865
+e403743851.877196
+r1
+xCopyStringsFile
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/en.lproj/Localizable.strings
+xWeek3App/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Week3App/Resources/en.lproj/Localizable.strings120"CopyStringsFile build/emulator/Week3App.app/en.lproj/Localizable.strings Week3App/Resources/en.lproj/Localizable.stringscdc9df6ba410b841^1aa4e06ba410b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/en.lproj/Localizable.strings0000000000000000^798"CopyStringsFile build/emulator/Week3App.app/en.lproj/Localizable.strings Week3App/Resources/en.lproj/Localizable.strings    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/en.lproj -- Week3App/Resources/en.lproj/Localizable.strings36"1D5E9929-13E6-4AC0-9D71-ABCD524116EC-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/es.lproj/Localizable.strings Week3App/Resources/es.lproj/Localizable.strings
+s403743851.874558
+e403743851.877885
+r1
+xCopyStringsFile
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/es.lproj/Localizable.strings
+xWeek3App/Resources/es.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Week3App/Resources/es.lproj/Localizable.strings120"CopyStringsFile build/emulator/Week3App.app/es.lproj/Localizable.strings Week3App/Resources/es.lproj/Localizable.stringsb7f1df6ba410b841^dcbde06ba410b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/es.lproj/Localizable.strings0000000000000000^798"CopyStringsFile build/emulator/Week3App.app/es.lproj/Localizable.strings Week3App/Resources/es.lproj/Localizable.strings    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/es.lproj -- Week3App/Resources/es.lproj/Localizable.strings36"9F06EFDB-9E48-4BB5-BDD5-C444E5C5A8E0-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCopyStringsFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/se.lproj/Localizable.strings Week3App/Resources/se.lproj/Localizable.strings
+s403743851.887994
+e403743851.937908
+r0
+xCopyStringsFile
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/se.lproj/Localizable.strings
+xWeek3App/Resources/se.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Week3App/Resources/se.lproj/Localizable.strings120"CopyStringsFile build/emulator/Week3App.app/se.lproj/Localizable.strings Week3App/Resources/se.lproj/Localizable.strings5a64e36ba410b841^bd39f06ba410b841^-197"error: failed to write to /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/se.lproj/Localizable.strings: The file “Localizable.strings” doesn’t exist.1(21%IDEActivityLogMessage2@189"Failed to write to /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/se.lproj/Localizable.strings: The file “Localizable.strings” doesn’t exist.-403743851#0#191#-2#--24"Copy .strings file Error--0#0#1#-19%DVTDocumentLocation3@124"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/se.lproj/Localizable.strings0000000000000000^798"CopyStringsFile build/emulator/Week3App.app/se.lproj/Localizable.strings Week3App/Resources/se.lproj/Localizable.strings    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/se.lproj -- Week3App/Resources/se.lproj/Localizable.strings36"7DB43C7D-0F0B-4311-AEB0-E13194B0AF90-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCpResource Week3App/Resources/icons/icon-72.png build/emulator/Week3App.app/icon-72.png
+s403743851.865097
+e403743851.867222
+r1
+xCpResource
+xWeek3App/Resources/icons/icon-72.png
+xbuild/emulator/Week3App.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/Week3App.app/icon-72.png87"CpResource Week3App/Resources/icons/icon-72.png build/emulator/Week3App.app/icon-72.png4985dd6ba410b841^6b10de6ba410b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/icon-72.png0038981edfffdf42^825"CpResource Week3App/Resources/icons/icon-72.png build/emulator/Week3App.app/icon-72.png    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/icons/icon-72.png /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app36"888BB2E9-B76C-4E3C-BDF4-40834B9AFA91-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCpResource Week3App/Resources/icons/icon-72@2x.png build/emulator/Week3App.app/icon-72@2x.png
+r0
+
+CCpResource Week3App/Resources/icons/icon.png build/emulator/Week3App.app/icon.png
+s403743851.868766
+e403743851.872016
+r1
+xCpResource
+xWeek3App/Resources/icons/icon.png
+xbuild/emulator/Week3App.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/emulator/Week3App.app/icon.png81"CpResource Week3App/Resources/icons/icon.png build/emulator/Week3App.app/icon.pngb77ede6ba410b841^6347df6ba410b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/icon.png0038981edfffdf42^816"CpResource Week3App/Resources/icons/icon.png build/emulator/Week3App.app/icon.png    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/icons/icon.png /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app36"30AAC710-B18D-4ADF-B4FE-05E1F9B1C435-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCpResource Week3App/Resources/icons/icon@2x.png build/emulator/Week3App.app/icon@2x.png
+s403743851.870981
+e403743851.873159
+r1
+xCpResource
+xWeek3App/Resources/icons/icon@2x.png
+xbuild/emulator/Week3App.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/Week3App.app/icon@2x.png87"CpResource Week3App/Resources/icons/icon@2x.png build/emulator/Week3App.app/icon@2x.pnga20adf6ba410b841^6893df6ba410b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/icon@2x.png0038981edfffdf42^825"CpResource Week3App/Resources/icons/icon@2x.png build/emulator/Week3App.app/icon@2x.png    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/icons/icon@2x.png /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app36"C6B60401-EB3D-449F-AC4A-2B2638F2D6F6-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCpResource Week3App/Resources/splash/Default-568h@2x~iphone.png build/emulator/Week3App.app/Default-568h@2x~iphone.png
+r0
+
+CCpResource Week3App/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Week3App.app/Default-Landscape@2x~ipad.png
+s403743851.909267
+e403743851.923661
+r1
+xCpResource
+xWeek3App/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/Week3App.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/Week3App.app/Default-Landscape@2x~ipad.png124"CpResource Week3App/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Week3App.app/Default-Landscape@2x~ipad.png5ed6e86ba410b841^f581ec6ba410b841^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Default-Landscape@2x~ipad.png0038981edfffdf42^881"CpResource Week3App/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Week3App.app/Default-Landscape@2x~ipad.png    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/splash/Default-Landscape@2x~ipad.png /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app36"F9E24743-1D47-46F4-9922-D568D575AE33-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCpResource Week3App/Resources/splash/Default-Landscape~ipad.png build/emulator/Week3App.app/Default-Landscape~ipad.png
+s403743851.934899
+e403743851.938207
+r1
+xCpResource
+xWeek3App/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/Week3App.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/emulator/Week3App.app/Default-Landscape~ipad.png118"CpResource Week3App/Resources/splash/Default-Landscape~ipad.png build/emulator/Week3App.app/Default-Landscape~ipad.pngcf68ef6ba410b841^5741f06ba410b841^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Default-Landscape~ipad.png0038981edfffdf42^872"CpResource Week3App/Resources/splash/Default-Landscape~ipad.png build/emulator/Week3App.app/Default-Landscape~ipad.png    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/splash/Default-Landscape~ipad.png /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app36"D61A3981-15D4-41DD-AFF3-CB04F4BE2D59-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCpResource Week3App/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Week3App.app/Default-Portrait@2x~ipad.png
+s403743851.939101
+e403743851.941742
+r1
+xCpResource
+xWeek3App/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/Week3App.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/Week3App.app/Default-Portrait@2x~ipad.png122"CpResource Week3App/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Week3App.app/Default-Portrait@2x~ipad.png0b7df06ba410b841^4222f16ba410b841^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Default-Portrait@2x~ipad.png0038981edfffdf42^878"CpResource Week3App/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Week3App.app/Default-Portrait@2x~ipad.png    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Resources/splash/Default-Portrait@2x~ipad.png /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app36"EA7C6E27-E4FC-47BD-8F7A-5FF1503E8211-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CCpResource Week3App/Resources/splash/Default-Portrait~ipad.png build/emulator/Week3App.app/Default-Portrait~ipad.png
+r0
+
+CCpResource Week3App/Resources/splash/Default@2x~iphone.png build/emulator/Week3App.app/Default@2x~iphone.png
+r0
+
+CCpResource Week3App/Resources/splash/Default~iphone.png build/emulator/Week3App.app/Default~iphone.png
+r0
+
+CCpResource Week3App/config.xml build/emulator/Week3App.app/config.xml
+s403743851.864915
+e403743851.869415
+r1
+xCpResource
+xWeek3App/config.xml
+xbuild/emulator/Week3App.app/config.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/Week3App.app/config.xml69"CpResource Week3App/config.xml build/emulator/Week3App.app/config.xml9293dd6ba410b841^8599de6ba410b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/config.xml0038981edfffdf42^790"CpResource Week3App/config.xml build/emulator/Week3App.app/config.xml    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/config.xml /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app36"61562C0E-385E-4EEF-8FA5-3ADCC0D109FE-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CGenerateDSYMFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app.dSYM /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Week3App
+r0
+
+CLd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Week3App normal i386
+r0
+
+CPhaseScriptExecution Copy\ www\ directory /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Script-304B58A110DAC018002A0835.sh
+s403743851.430923
+e403743851.856884
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.392s
+ouser	0m0.089s
+osys	0m0.093s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'134"PhaseScriptExecution Copy\ www\ directory build/Week3App.build/Debug-iphonesimulator/Week3App.build/Script-304B58A110DAC018002A0835.sh9b006f6ba410b841^355ddb6ba410b841^-42"real	0m0.392suser	0m0.089ssys	0m0.093s3(21%IDEActivityLogMessage2@14"real	0m0.392s-403743851#1#14#-0#-----2@14"user	0m0.089s-403743851#15#14#-0#-----2@13"sys	0m0.093s-403743851#29#13#-0#-----0#0#1#--22778"PhaseScriptExecution Copy\ www\ directory build/Week3App.build/Debug-iphonesimulator/Week3App.build/Script-304B58A110DAC018002A0835.sh    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jamesjackson    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD i386    setenv ARCHS_STANDARD_32_64_BIT i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "i386 x86_64"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build    setenv BUILD_ROOT /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator    setenv CACHE_ROOT /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CCHROOT /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_BOOL_CONVERSION YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneSimulatorCodeSignContext    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator    setenv CONFIGURATION_TEMP_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH Week3App.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH Week3App.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Week3App.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME Week3App.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Week3App.app/Executables    setenv EXECUTABLE_FOLDER_PATH Week3App.app    setenv EXECUTABLE_NAME Week3App    setenv EXECUTABLE_PATH Week3App.app/Week3App    setenv FILE_LIST /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH Week3App.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Week3App.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Week3App/Week3App-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNDECLARED_SELECTOR YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/include \"/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/usr/local/lib/include\" \"/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/UninstalledProducts/include\" \"/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Week3App/Week3App-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Week3App.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH Week3App.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/Week3App.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jamesjackson    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/Week3App.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Week3App.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects-normal/i386/Week3App_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Week3App-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects-normal/i386/Week3App.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH Week3App.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12F45    setenv MAC_OS_X_VERSION_ACTUAL 1085    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0805    setenv MODULE_CACHE_DIR /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Objects-normal    setenv OBJROOT /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load \"/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/libCordova.a\" -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Week3App.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/PkgInfo    setenv PKGINFO_PATH Week3App.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 11A465    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 70000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Week3App.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Week3App.app/PrivateHeaders    setenv PRODUCT_NAME Week3App    setenv PRODUCT_SETTINGS_PATH /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Week3App    setenv PROJECT_DERIVED_FILE_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/DerivedSources    setenv PROJECT_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PROJECT_FILE_PATH /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App.xcodeproj    setenv PROJECT_NAME Week3App    setenv PROJECT_TEMP_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build    setenv PROJECT_TEMP_ROOT /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build    setenv PUBLIC_HEADERS_FOLDER_PATH Week3App.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Week3App.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_NAME iphonesimulator7.0    setenv SDK_PRODUCT_BUILD_VERSION 11A465    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH Week3App.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Week3App.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv SRCROOT /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME Week3App    setenv TARGET_BUILD_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator    setenv TARGET_NAME Week3App    setenv TARGET_TEMP_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build    setenv TEMP_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build    setenv TEMP_FILES_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build    setenv TEMP_FILE_DIR /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build    setenv TEMP_ROOT /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Week3App.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER jamesjackson    setenv USER_APPS_DIR /Users/jamesjackson/Applications    setenv USER_LIBRARY_DIR /Users/jamesjackson/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Week3App.app/version.plist    setenv VERSION_INFO_BUILDER jamesjackson    setenv VERSION_INFO_FILE Week3App_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Week3App  PROJECT:Week3App-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME Week3App.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A1413    setenv XCODE_VERSION_ACTUAL 0500    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH Week3App.app/XPCServices    setenv YACC yacc    setenv arch i386    setenv variant normal    /bin/sh -c /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/Week3App.build/Debug-iphonesimulator/Week3App.build/Script-304B58A110DAC018002A0835.sh36"7CA0BF2C-254C-4A65-95DC-9F6AF432970C-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CProcessInfoPlistFile /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Info.plist /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist
+s403743851.416825
+e403743851.422041
+r1
+xProcessInfoPlistFile
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Info.plist
+x/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Process /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist88"ProcessInfoPlistFile build/emulator/Week3App.app/Info.plist Week3App/Week3App-Info.plist8aca6a6ba410b841^1a196c6ba410b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist0000000000000000^920"ProcessInfoPlistFile build/emulator/Week3App.app/Info.plist Week3App/Week3App-Info.plist    cd /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/jamesjackson/Documents/adt/sdk/platform-tools:/Users/jamesjackson/Documents/adt/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/Week3App/Week3App-Info.plist -genpkginfo /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app/Info.plist36"5FA5DCC9-8608-4CA4-B88B-5162BAE89792-
+b8F2C7652-7954-4211-A638-5CF6D11439D9
+
+CProcessPCH /var/folders/rp/nl4fl08n7g500mn3gh2shb400000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Week3App-Prefix-cplnzlbfhcnhfrbwplxxbtjzeuci/Week3App-Prefix.pch.pch Week3App/Week3App-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/build/emulator/Week3App.app
+r0
+

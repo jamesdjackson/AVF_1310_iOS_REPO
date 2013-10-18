@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVJSON.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVViewController.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVWhitelist.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
-  /Users/jamesjackson/Documents/workspace/AVF1310Project1/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVJSON.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVViewController.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
+  /Users/jamesjackson/Desktop/AVFMashup/PhoneGap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
