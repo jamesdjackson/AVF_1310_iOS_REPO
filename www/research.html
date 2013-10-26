@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+
+<!--James Jackson-->
+<!--AVF 1310-->
+<!--Project 4-->
+
+<html xmlns="http://www.w3.org/1999/html" <head>
+    <meta charset="utf-8">
+    <title>API Mashup Demo</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1,  minimum-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/app.min.css">
+    <script src="scripts/jQuery2.0.2.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="scripts/main.min.js"></script>
+</head>
+
+	<body>
+
+<div class="app-wrapper">
+    
+    <nav class="main-menu">
+        <a href="index.html">Home</a>
+        <a href="flickr.html">Flickr</a>
+        <a href="Instagram.html">Instagram</a>
+        <a href="Location.html">Location</a>
+        <a href="Map.html">Map</a>
+    </nav>
+    
+
+
+        <header>
+            <div class="main-menu-button main-menu-button-left"><a class="menu">&nbsp;</a></div>
+            <h1>Research</h1>
+        </header>
+
+        <div class="app-content">
+            </div>
+
+            <div data-role ="content" >
+                <h1>Project Intent</h1>
+                <p> 1. Less obvious perks of using 'live' data resources include logins and payments. How could Twitter
+                    be used in these two scenarios?
+                    The Twitter developer page gave two great scenarios for using Twitter login. One was for the browser.
+                    In this example a “Sign in with Twitter” button can appear in page as a button or link. This will either
+                    redirect the current page or open a new window to login. Twitter then redirects back to the originating
+                    URL and passes the user authentication information for the user.
+                    The second example was almost identical, but optimized for mobile browsers and sessions.
+                    My only experience with Twitter and payments has been with sites like Amazon that give you the opportunity
+                    to tell your Twitter followers about your recent purchase after checkout. Something like:
+
+                <p>”I just bought 400lbs of cat food for my six cats on @Amazon!”</p>
+
+                <p>2. Visit Programmableweb.com and search for JSON-P data sources. Why would we need JSON-P, specifically?
+
+                <p>JSON-P is essentially a work around to allow an application to retrieve data form an external domain.
+                    This would ordinarily be treated as a cross domain violation and not be allowed. However, the request
+                    is sent as JavaScript and handled in such a way that the data is allowed to be retrieved or interpreted
+                    as script, rather than parsed as a JSON data set.</p>
+
+                <p>3. Based on the JSON-P search results: what data resource(s) do you think might pair well with which
+                    types of Native device features?
+
+                <p>It seems as though mapping and photo data retrieval would be great due to all of the ancillary and often
+                    non-standard metadata they both carry.</p>
+
+                <p>4. Please describe any design and functionality intentions you may have for your Demo app components
+                    this month.
+
+                <p>I am personally interested in learning about the Instagram API, the mapping/geo API, as well as learning
+                    more about implementing the Twitter API.</p>
+
+                <p>5. Briefly describe some past 'lessons learned' regarding workflow as it relates to research, design, development, etc.
+
+                <p>I have learned to generally get the skeleton of my projects up and running as early as I can. Much of
+                    this has been learning to reuse HTML/CSS templates for the CRUDs and try to continue to improve on what
+                    I know. I have expanded my professional reading library quite a bit over the last or so and I have some
+                    great resources I find myself going back to.</p>
+
+                <p>As far as design goes, I read a lot of technology and security (industry) periodicals, blogs and websites.
+                    I browse all of the app stores to include Google, Apple and the Windows App Stores. I am platform agnostic,
+                    and I feel that more so than ever all of the platforms offer something for developers and users.</p>
+            </div>
+
+         <div data-role ="content" >
+            <h1>Accessibility</h1>
+            <p>1. What are some of the ways that you could change your HTML on your Demo app to be more accessible? (Remember, you can use the Section tag with jQuery, for instance)</p>
+
+            <p>A search on Google returned an interesting presentation from Stanford discussing accessibility. They identified four areas of concern, or in their words; “impairments that can negatively impact users on the web.”</p>
+
+                <p>They identified the most prevalent Assistive APIs (AAPIs) such as:</p>
+                <p>• Microsoft Active Accessibility (MSAA) (Microsoft)</p>
+                <p>• IAccessible2 (Linux Foundation)</p>
+                <p>• User Interface Automation (UIA) (Microsoft)</p>
+                <p>• Linux Accessibility Toolkit (ATK) and Assistive Technology - Service Provider Interface (AT-SPI) (gnome.org)</p>
+                <p>• Mac OS X Accessibility Protocol (Apple)</p>
+
+                <p>They went on to discuss common markup syntax that can be employed by these APIs such as specific assistive roles in the markup which can be embellished to provide more context and utility for impaired users.
+            The presentation also stressed semantic the use of semantic structure, again to better describe the object and provide context to the accessibility tools and ultimately the user.</p>
+
+            <p>I cite all of these things, because they are all things I believe I can improve in my own overall practice, not just this project. I think beyond just accessibility, they are good practices to keep.</p>
+
+            <p>2. Visit a video service on the web (like YouTube) and search for "Screen Reader Demo" and "Mobile Screen Reader" - what are some of the common frustrations (or common support mechanisms) that you see among the examples that are given - how could you fix them (or use them)?</p>
+
+            <p>I do not believe it is a matter of “fixing” the apps for assistive technology as much as it is developing discreet platforms for impaired users. I believe we are trying to make the best truck we can out of a car, rather than just starting off with a truck.</p>
+
+            <p>We have evolved the usage, ergonomics, and usability over many years for mainstream, non-impaired users. Why should there even be a gui for blind users? Why not an interface based upon sound or tactile feedback purely?</p>
+
+            <p>SO, I guess my answer to improving these solutions or modifications to existing systems would be to forgo them. Stsart from the ground up, and develop based upon the sole needs of the userbase.</p>
+
+            <p>3. Devices: Please list two devices (and some of their features) that are made specifically to support Accessibility.</p>
+
+            <p>I work in the government and we pay close attention to accommodation. I have seen many devices used in the workplace. Common examples are adapted keyboards; which may have larder or more accessible keys or alternate input devices. On-screen keyboards, ubiquitous in mobile computing these days, started off as an accessibility tool back in the day. In fact you can pretty much conjure an on-screen keyboard through the accessibility panel of any version of MS Windows or Mac OS. OCR(Optical character Recognition) Voice Recognition, are all considered assistive technology as well.</p>
+
+            <p>4. Mobile Apps: Please list two apps (either Android or iOS, or both) that are made specifically to support Accessibility.</p>
+
+            <p>I found a webpage that has a running listing of accessibility: http://www.androidaccess.net/</p>
+
+            <p>Android and iOS both have accessibility options. Two specific apps were:
+            Bellman- announces the time so you can hear it.</p>
+            <p>Eyes-Free Shell- Turns your Android into an eyes-free communication device. Provides one-touch access to Android applications, as well as useful mini-apps built into the Eyes-Free Shell. Move your finger over the screen to explore; lift your finger up to run what you stopped on.
+            </p>
+
+             <div data-role ="content" >
+                <h1>Industry Research</h1>
+                <p>What are the 'top selling' app categories in the U.S.? Japan? Great Britain?</p>
+                    According to App Annie.com, games rule top free, paid and top grossing categories for all three categories.  You will see the occasional app littered in there such as Pandora, hover it is crowded with otherwise games.</p>
+                <p>Based on your three answers above, what might you infer about each of the markets listed?</p>
+                    Most people do not actually talk on their phones, they just own them to play games.  But seriously, games are the predominant app if you are looking to make some money, Candy Crush is killing it in two of three markets as the #1 top grossing app for iOS.
+                    What is the average cost and bandwidth limits per user (in general) in each of the three markets? How may this impact development?
+                    According to New America.net the average postpaid cost per MB in each country is as follows:</p>
+                    <p>U.S.= $0.08</p>
+                    <p>Japan= $9.40</p>
+                    <p>UK= $0.00 (UK offered prepaid rates of $1.64)</p>
+                    <p>And, finally, what would be your suggested strategy in project topic and global market choice? Feel free to have a first and second choice.</p>
+                    <p>I would suggest developing mobile platform games,probably iOS as they are most likely to purchase according to my reading, in the U.S. market where bandwidth is not only cheap but also least regulated.</p>
+
+
+                    <p>References</p>
+                    <p>App Annie Analytics (2013, October 21). App Annie. Retrieved October 21, 2013,</p>
+                </p>
+
+    </body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
