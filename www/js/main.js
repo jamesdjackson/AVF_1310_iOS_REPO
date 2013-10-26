@@ -14,7 +14,9 @@ $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?
     });
   });
 
+////////////////////////////////////////////////////////////////////////////////////
 
+// Instantiate an empty object.
 var Instagram = {};
 
 
@@ -179,9 +181,50 @@ function onSuccess(heading) {
 function onError() {
     alert('Not Tracking!');
 }
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+function onLoad() {
+    document.addEventListener("deviceready", onDeviceReady, false);
+}
+
+function onDeviceReady() {
+}
+
+function showAlert() {
+    navigator.notification.alert(
+        'Game Over!',  // message
+        alertCallback,   //callback
+        'Game Over',            // title
+        'Done'                  // buttonName
+    );
+}
 
 
+function alertCallback(){
+}
 
+
+function onConfirm(button) {
+    alert('You selected button ' + button);
+}
+
+
+function showConfirm() {
+    navigator.notification.confirm(
+        'Game Over!',  // message
+        onConfirm,     // callback to invoke with index of button pressed
+        'Game Over',   // title
+        'Restart,Exit' // buttonLabels
+    );
+}
+function playBeep() {
+    navigator.notification.beep(2);
+}
+function vibrate() {
+    navigator.notification.vibrate(4000);
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 var watchID = null;
 
@@ -219,29 +262,15 @@ function onError() {
 }
 
 
-///Camera
 
+//////////////////////////////////////////////////////////////////////////////////////////
 
-this.changePicture = function(event) {
-    event.preventDefault();
-    if (!navigator.camera) {
-        app.showAlert("Camera API not supported", "Error");
-        return;
-    }
-    var options =   {   quality: 50,
-    destinationType: Camera.DestinationType.DATA_URL,
-    sourceType: 1,      // 0:Photo Library, 1=Camera, 2=Saved Photo Album
-    encodingType: 0     // 0=JPG 1=PNG
-    };
-    
-    navigator.camera.getPicture(
-                                function(imageData) {
-                                $('.employee-image', this.el).attr('src', "data:image/jpeg;base64," + imageData);
-                                },
-                                function() {
-                                app.showAlert('Error taking picture', 'Error');
-                                },
-                                options);
-    
-    return false;
-};
+app.controller('mash1Ctrl', function ($scope) {
+               
+               $scope.geoMash = function(position) {
+               $scope.latitude = position.coords.latitude;
+               $scope.longitude = position.coords.longitude;
+               };
+               
+               });
+
